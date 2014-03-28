@@ -1,0 +1,7 @@
+* Bottomfeeder
+** What is
+Software to read stuff.
+** Links
+*** Feed specs
+Atom: http://www.ietf.org/rfc/rfc4287.txt
+RSS 2.0: http://cyber.law.harvard.edu/rss/rss.html
